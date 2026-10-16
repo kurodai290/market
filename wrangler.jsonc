@@ -6,9 +6,8 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
- "assets": {
-  "directory": "."
-}
+  "assets": {
+    "directory": "./public"
   },
   "d1_databases": [
     {
